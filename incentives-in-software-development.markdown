@@ -63,7 +63,7 @@ there is another way some software is developed: open source.
 Open Source effectively gets around the barrier to entry problem, because there 
 are no manufacturing costs for software. With software, you can go from a design 
 (source code) to a usable application (binary) _automatically_. This is because 
-there is a computer program (called a compiler) which can assemble the instructions 
+there is a computer program (called a compiler), which can assemble the instructions 
 for the machine directly from the instructions that a skilled human can give it. 
 So if I give away a software design, anyone can replicate it for free, and also 
 make changes to my design, and still turn it into working software for free.
